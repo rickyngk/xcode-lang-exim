@@ -1,4 +1,4 @@
-# A simple tool for extracting text (strings file) from xcode project
+# A simple tool for moderating localization from xcode project
 
 ### Requirement:
 - Python 2.7
