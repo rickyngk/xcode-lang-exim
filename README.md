@@ -3,6 +3,7 @@
 ### Requirement:
 - Python 2.7
 - xlsxwriter: http://xlsxwriter.readthedocs.io/
+- xldr: https://pypi.python.org/pypi/xlrd
 - Update path os.walk('./YourAwesomeProject/')
 
 Run: `python export-text.py`
